@@ -1,6 +1,5 @@
-Sure! Here's a sample README file for the smart contract `mySmartContractModule3`:
 
-# mySmartContractModule3
+# Project: Create and Mint Token
 
 ## Overview
 
