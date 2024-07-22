@@ -1,7 +1,7 @@
 
 # Project: Create and Mint Token
 
-## Overview
+## Overview 
 
 `mySmartContractModule3` is a Solidity smart contract that represents a simple token on the Ethereum blockchain. The contract is designed to create your own token on a local HardHat network, allowing the contract owner to mint tokens to provided addresses, and enabling users to burn and transfer tokens.
 
